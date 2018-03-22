@@ -1,4 +1,4 @@
 Magic 8 Ball
 
 bundle install,
-then run with command 'ruby magic_ball.rb'
+then run with command 'ruby magic_ball_test.rb'
